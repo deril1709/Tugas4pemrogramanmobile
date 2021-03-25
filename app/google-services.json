@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846903674353",
+    "project_id": "tugas4pemrogramanmobile",
+    "storage_bucket": "tugas4pemrogramanmobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846903674353:android:0b73727cf35fc74a39b050",
+        "android_client_info": {
+          "package_name": "com.example.tugas4pemrogramanmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846903674353-sbhtjv8eu3k049dbkf0makagj0e2v44t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB74eamAVkJ6-tVwwpdjUGSbfcqCO_9PE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846903674353-sbhtjv8eu3k049dbkf0makagj0e2v44t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
